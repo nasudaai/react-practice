@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "esbuild src/main.js --bundle --outdir=./dist --watch --servedir=./"
+    "dev": "esbuild src/main.jsx --bundle --outdir=./dist --watch --servedir=./"
   },
   "keywords": [],
   "author": "",
